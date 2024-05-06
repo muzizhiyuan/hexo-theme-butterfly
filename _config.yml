@@ -449,8 +449,8 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: gO7v82P2Gjg9AxkbONc6VNM5-gzGzoHsz# leancloud application app id
-  appKey: h1BYfc4KOjYrl7aF6hXMIr35# leancloud application app key
+  appId: gO7v82P2Gjg9AxkbONc6VNM5-gzGzoHsz
+  appKey: h1BYfc4KOjYrl7aF6hXMIr35
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
